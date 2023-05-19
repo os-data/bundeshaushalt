@@ -139,7 +139,7 @@
     {
       "name": "haushalt-enriched",
       "format": "csv",
-      "path": "haushalt-enriched.csv",
+      "path": "https://storage.openspending.org/haushalt-enriched.csv",
       "mediatype": "application/vnd.ms-excel",
       "bytes": 3108620,
       "dialect": {
