@@ -128,6 +128,10 @@
   "promise": {},
   "regionCode": "eu",
   "countryCode": "DE",
+  "fiscalPeriod": {
+    "start": "2017-01-01",
+    "end": "2017-12-31"
+  },
   "cityCode": "Bund",
   "title": "Bundeshaushalt",
   "name": "bundeshaushalt",
